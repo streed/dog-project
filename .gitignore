@@ -7,3 +7,4 @@ saved_models/weights.best.vgg16.hdf5
 bottleneck_features/DogVGG16Data.npz
 personal/
 __pycache__/
+saved_models/
